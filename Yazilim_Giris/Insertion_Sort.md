@@ -1,4 +1,5 @@
 # Insertion Sort Odev
+ https://app.patika.dev/Brsaktrk
 ## Soru 1
 [22,27,16,2,18,6]<br>
 [2|,27,16,22,18,6]<br>
